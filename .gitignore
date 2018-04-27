@@ -13,5 +13,9 @@ yarn-error.log*
 *.ntvs*
 *.njsproj
 
-CadeMeuMedico/bin
-CadeMeuMedico/obj
+
+
+/CadeMeuMedico/bin
+
+/CadeMeuMedico/obj
+
